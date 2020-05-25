@@ -7,7 +7,8 @@ namespace VCSBasics
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("If you're seeing this, It has just been commited");
+            Console.WriteLine("First commit is here!");
         }
+        
     }
 }
