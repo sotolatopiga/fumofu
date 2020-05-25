@@ -1,0 +1,8 @@
+/media/sotola/dell_ntfs_96gb/_IDEs/.Rider2019.3/config/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/obj/Debug/netcoreapp2.1/VCSBasics.csprojAssemblyReference.cache
+/media/sotola/dell_ntfs_96gb/_IDEs/.Rider2019.3/config/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/obj/Debug/netcoreapp2.1/VCSBasics.AssemblyInfoInputs.cache
+/media/sotola/dell_ntfs_96gb/_IDEs/.Rider2019.3/config/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/obj/Debug/netcoreapp2.1/VCSBasics.AssemblyInfo.cs
+/media/sotola/dell_ntfs_96gb/_IDEs/.Rider2019.3/config/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/obj/Debug/netcoreapp2.1/VCSBasics.csproj.CoreCompileInputs.cache
+/media/sotola/dell_ntfs_96gb/_IDEs/.Rider2019.3/config/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/bin/Debug/netcoreapp2.1/VCSBasics.dll
+/media/sotola/dell_ntfs_96gb/_IDEs/.Rider2019.3/config/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/bin/Debug/netcoreapp2.1/VCSBasics.pdb
+/media/sotola/dell_ntfs_96gb/_IDEs/.Rider2019.3/config/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/obj/Debug/netcoreapp2.1/VCSBasics.dll
+/media/sotola/dell_ntfs_96gb/_IDEs/.Rider2019.3/config/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/obj/Debug/netcoreapp2.1/VCSBasics.pdb
